@@ -1,0 +1,16 @@
+ REGISTRADOR DE TAREFAS 
+ Com este projeto você poderá criar uma lista de tarefas, podendo adicionar,excluir e marcar como concluída a tarefa.
+ 
+ # Download do projeto
+ Faça o download do arquivo clicando em Download
+ Extraia o arquivo .Rar
+ 
+ #Executando o projeto
+ Execute o arquivo .HTML , clicando com botao direito abrir com o navegador;
+ 
+ #Explicando funcionalidades
+ No inicio da pagina há um campo para ser digitado, no mesmo você descreve sua tarefa e clicando no botao adicionar a tarefa 
+ será adicionada na lista.
+ As tarefas adicionadas serão listadas abaixo.
+ Clicando no botao X, a tarefa será excluída 
+ Clicando na tarefa poderá marcar como concluída.
